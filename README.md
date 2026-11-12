@@ -1,4 +1,4 @@
-# Day 20 — Model Serving & Inference Optimization (Track 2)
+# Model-Serving-Inference-Optimization-Lab
 
 Lab cho **AICB-P2T2 · Ngày 20**.
 
